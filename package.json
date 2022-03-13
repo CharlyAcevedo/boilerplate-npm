@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Carlos Acevedo",
+	"description": "A project from freecodecamp that i'm learning",
+	"keywords": [ "freecodecamp", "students", "learning" ],
+	"license": "ExampleLicense",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
